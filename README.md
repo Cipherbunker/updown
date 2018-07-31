@@ -24,4 +24,4 @@ this was tested in osx high sierra and works
 
 will not currently work in osx Mojave 
 
-Will be testing in arch linux 
+Will be testing in Arch linux 
