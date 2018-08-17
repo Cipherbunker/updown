@@ -4,7 +4,7 @@ upload them to HttpFileServer and then delete them from the host computer (Warni
 files I am not responsible for anything you do while running my scripts)
 you will also need to create a folder called Muvies in the root directory 
 
-
+(needs zip, curl,and wget)
 
 
 chmod +x all scripts
