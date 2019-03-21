@@ -15,13 +15,4 @@ edit updown.sh add your server and login info
 
 run ./updown.sh 
 
-this will download all the .mp4 files
 
-once that is done ALL .mp4 fies (even some already on your drive/ home folder) will be put into a zip folder and sent to
-whatever httpserver you have assigned in the updown.sh 
-
-this was tested in osx high sierra and works 
-
-will not currently work in osx Mojave 
-
-Will be testing in Arch linux 
